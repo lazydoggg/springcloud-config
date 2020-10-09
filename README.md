@@ -1,2 +1,2 @@
 # springcloud-config
-配置中心测试
+springcloud配置中心学习
